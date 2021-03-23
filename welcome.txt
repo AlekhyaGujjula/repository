@@ -3,6 +3,8 @@ Welcome to developer1 local repository
 this is change made by developer1
 
 this is the change done by developer2
+  second change by developer1
+
 
 this is second change done by developer2
  
